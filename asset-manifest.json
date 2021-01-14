@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/garnachas-app-test/static/css/main.916e6b52.chunk.css",
+    "main.js": "/garnachas-app-test/static/js/main.7869f02c.chunk.js",
+    "main.js.map": "/garnachas-app-test/static/js/main.7869f02c.chunk.js.map",
+    "runtime-main.js": "/garnachas-app-test/static/js/runtime-main.0b73a115.js",
+    "runtime-main.js.map": "/garnachas-app-test/static/js/runtime-main.0b73a115.js.map",
+    "static/js/2.9c797ba4.chunk.js": "/garnachas-app-test/static/js/2.9c797ba4.chunk.js",
+    "static/js/2.9c797ba4.chunk.js.map": "/garnachas-app-test/static/js/2.9c797ba4.chunk.js.map",
+    "static/js/3.692f1a03.chunk.js": "/garnachas-app-test/static/js/3.692f1a03.chunk.js",
+    "static/js/3.692f1a03.chunk.js.map": "/garnachas-app-test/static/js/3.692f1a03.chunk.js.map",
+    "index.html": "/garnachas-app-test/index.html",
+    "static/css/main.916e6b52.chunk.css.map": "/garnachas-app-test/static/css/main.916e6b52.chunk.css.map",
+    "static/js/2.9c797ba4.chunk.js.LICENSE.txt": "/garnachas-app-test/static/js/2.9c797ba4.chunk.js.LICENSE.txt",
+    "static/media/start_logo.fa382c7a.png": "/garnachas-app-test/static/media/start_logo.fa382c7a.png",
+    "static/media/taco1.jpg": "/garnachas-app-test/static/media/taco1.87773774.jpg",
+    "static/media/taco2.jpg": "/garnachas-app-test/static/media/taco2.7fa30bc4.jpg",
+    "static/media/taco3.jpg": "/garnachas-app-test/static/media/taco3.686d1e57.jpg",
+    "static/media/taco4.jpg": "/garnachas-app-test/static/media/taco4.abb1dd0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b73a115.js",
+    "static/js/2.9c797ba4.chunk.js",
+    "static/css/main.916e6b52.chunk.css",
+    "static/js/main.7869f02c.chunk.js"
+  ]
+}
