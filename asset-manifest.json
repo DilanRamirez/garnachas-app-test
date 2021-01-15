@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/garnachas-app-test/static/css/main.916e6b52.chunk.css",
-    "main.js": "/garnachas-app-test/static/js/main.51e9dec0.chunk.js",
-    "main.js.map": "/garnachas-app-test/static/js/main.51e9dec0.chunk.js.map",
+    "main.js": "/garnachas-app-test/static/js/main.554aa723.chunk.js",
+    "main.js.map": "/garnachas-app-test/static/js/main.554aa723.chunk.js.map",
     "runtime-main.js": "/garnachas-app-test/static/js/runtime-main.5dbdbdd0.js",
     "runtime-main.js.map": "/garnachas-app-test/static/js/runtime-main.5dbdbdd0.js.map",
-    "static/js/2.0b336325.chunk.js": "/garnachas-app-test/static/js/2.0b336325.chunk.js",
-    "static/js/2.0b336325.chunk.js.map": "/garnachas-app-test/static/js/2.0b336325.chunk.js.map",
+    "static/js/2.89c0d04c.chunk.js": "/garnachas-app-test/static/js/2.89c0d04c.chunk.js",
+    "static/js/2.89c0d04c.chunk.js.map": "/garnachas-app-test/static/js/2.89c0d04c.chunk.js.map",
     "static/js/3.44fa276e.chunk.js": "/garnachas-app-test/static/js/3.44fa276e.chunk.js",
     "static/js/3.44fa276e.chunk.js.map": "/garnachas-app-test/static/js/3.44fa276e.chunk.js.map",
     "index.html": "/garnachas-app-test/index.html",
     "static/css/main.916e6b52.chunk.css.map": "/garnachas-app-test/static/css/main.916e6b52.chunk.css.map",
-    "static/js/2.0b336325.chunk.js.LICENSE.txt": "/garnachas-app-test/static/js/2.0b336325.chunk.js.LICENSE.txt",
+    "static/js/2.89c0d04c.chunk.js.LICENSE.txt": "/garnachas-app-test/static/js/2.89c0d04c.chunk.js.LICENSE.txt",
     "static/media/start_logo.fa382c7a.png": "/garnachas-app-test/static/media/start_logo.fa382c7a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5dbdbdd0.js",
-    "static/js/2.0b336325.chunk.js",
+    "static/js/2.89c0d04c.chunk.js",
     "static/css/main.916e6b52.chunk.css",
-    "static/js/main.51e9dec0.chunk.js"
+    "static/js/main.554aa723.chunk.js"
   ]
 }
