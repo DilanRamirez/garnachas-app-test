@@ -1,6 +1,6 @@
 {
-  "short_name": "Garnachas App",
-  "name": "The Garnachas app by Dilan Ramirez",
+  "short_name": "Weekly Meals",
+  "name": "The weekly meals app by Dilan Ramirez",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#d9534f",
-  "background_color": "#ffffff"
+  "theme_color": "#fff",
+  "background_color": "#d9534f"
 }
